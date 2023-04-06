@@ -1,5 +1,6 @@
 <h1 align="center">Radosław Patryk Pędziwilk</h1>
 <h3 align="center">A passionate SysAdmin from Poland</h3>
+<img align="right" alt="Linux" src="https://tenor.com/bRnfB.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steczny&label=Profile%20views&color=0e75b6&style=flat" alt="steczny" /> </p>
 

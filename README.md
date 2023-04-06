@@ -1,5 +1,5 @@
-![Header](./github-header-image-name.png)
-<h1 align="center">Radosław Patryk Pędziwilk</h1>
+![Header](https://github.com/Steczny/Steczny/blob/main/github-header-image.png?raw=true)
+<h1 align="center">Steczny</h1>
 <h3 align="center">A passionate SysAdmin from Poland</h3>
 <img align="right" alt="Linux" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 

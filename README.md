@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Steczny alt @DPKG
-- 👀 I’m interested in learning about biology
+- 👀 I’m interested in learning about Linux, i want to be SYSADMIN
 - 🌱 I’m currently learning BASH/LINUX
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me stecznypl@gmail.com @dpkgtalk@gmail.com

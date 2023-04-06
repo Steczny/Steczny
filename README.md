@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Radosław Patryk Pędziwilk</h1>
+<h1 align="center">Radosław Patryk Pędziwilk</h1>
 <h3 align="center">A passionate SysAdmin from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steczny&label=Profile%20views&color=0e75b6&style=flat" alt="steczny" /> </p>
 
-- 🔭 I’m currently working on [Youtube channel](https://www.youtube.com/channel/UCNFSN8kqrIMkpFPHBiERCww)
-
-- 🌱 I’m Always learning **SysAdmin things**
+- [Youtube channel](https://www.youtube.com/channel/UCNFSN8kqrIMkpFPHBiERCww)
 
 - 📫 How to reach me **stecznypl@gmail.com dpkgtalk@gmail.com**
 

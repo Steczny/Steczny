@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steczny&label=Profile%20views&color=0e75b6&style=flat" alt="steczny" /> </p>
 
 
-- Discord: **steczny#0**
+- Discord: **steczny**
 
 
 <h3 align="left">Sociale</h3>
